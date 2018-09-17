@@ -36,7 +36,7 @@ cd ..
 The pipeline also requires a set of reference database:
 - **[Viral protein families](http://portal.nersc.gov/dna/microbial/prokpubs/EarthVirome_DP/final_list.hmms)**: HMM model consisting of 25,281 viral proteins, from ref. 20 of Paez-Espino et al. 2017 (Nature Protocol)
 - **[Metagenomic viral contigs](http://portal.nersc.gov/dna/microbial/prokpubs/EarthVirome_DP/Nature_Protocols/reference_metagenomic_virus_database/mVCs_PaezEspino_Nature.fna)**: A reference database consisting of 125,842 metagenomic viral contigs (fasta file to be converted to a blast database).
-- **[Pfam](large collection of protein families)**: A large collection of protein families
+- **[Pfam](https://pfam.xfam.org/)**: A large collection of protein families
 
 To install all of the required databases, please run:
 
