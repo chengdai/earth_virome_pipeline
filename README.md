@@ -11,7 +11,10 @@ Chengzhen Dai (chengdai@mit.edu), Sepideh Pakpour (sepideh.pakpour@ubc.ca)
 
 ### Getting Started
 
-This pipeline consists a set of command-line scripts provided for Linux and written in Python (2.7) and Java. 
+This pipeline consists a set of command-line scripts provided for Linux and written in Python (2.7) and Java. To use, simply clone the repository:
+```
+git clone https://github.com/chengdai/earth-virome-pipeline.git
+```
 
 #### Software Requirements
 The pipeline requires a set of dependency softwares:
